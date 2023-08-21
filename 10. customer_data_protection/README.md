@@ -18,3 +18,6 @@
 
 Pandas, matplotlib, numpy, scikit-learn
 
+## Статус проекта:
+
+Завершен.

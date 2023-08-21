@@ -15,3 +15,7 @@
 ## Стек технологий:
 
 Pandas, matplotlib, numpy, scikit-learn, seaborn, NLTK, re, CatBoost, XGBoost, LightGBM
+
+## Статус проекта:
+
+Завершен.

@@ -25,3 +25,6 @@
 
 Pandas, matplotlib, numpy, seaborn, scikit-learn
 
+## Статус проекта:
+
+Завершен.

@@ -16,3 +16,6 @@
 
 Pandas, matplotlib, numpy, scikit-learn, seaborn, CatBoost, XGBoost, LightGBM
 
+## Статус проекта:
+
+Завершен.

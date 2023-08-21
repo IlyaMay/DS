@@ -20,3 +20,7 @@
 ## Стек технологий:
 
 Pandas, matplotlib, numpy, scikit-learn, GridSearchCV, CatBoost, LGBM.
+
+## Статус проекта:
+
+Завершен.
